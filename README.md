@@ -29,5 +29,5 @@ Passionate about **ethical hacking**, **infrastructure defense**, and **secure s
 ---
 
 #### GitHub Stats
-
-[![0x5A65726F677275's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=0x5A65726F677275&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[
+[![0x5A65726F677275's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=0x5A65726F677275&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)](https://leetcode.com/u/zerogru/)
