@@ -25,10 +25,3 @@ Passionate about **ethical hacking**, **infrastructure defense**, and **secure s
 ![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-151515?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-
----
-
-#### Leetcode
-https://leetcode.com/u/zerogru/
-#### pwncollege
-https://pwn.college/hacker/
