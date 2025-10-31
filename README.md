@@ -14,7 +14,6 @@ Passionate about **ethical hacking**, **infrastructure defense**, and **secure s
 ---
 
 #### Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/Go-151515?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
